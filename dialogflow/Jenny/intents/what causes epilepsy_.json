@@ -1,0 +1,28 @@
+{
+  "id": "5fcc5bde-eafc-435f-ba6d-010db0682a6e",
+  "name": "what causes epilepsy?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are many reasons why people have epilepsy. Often it is impossible to define the cause. Some causes include: \n- acquired brain injury\u2028- loss of oxygen (hypoxia)\n- infections such as encephalitis\n- strokes, tumours or cysts \n- cerebrovascular degeneration in the elderly \n- genetic causes. These may be inherited in the family or they may be caused by a new genetic abnormality that occurs during the earliest stage of foetal development."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509235299,
+  "fallbackIntent": false,
+  "events": []
+}

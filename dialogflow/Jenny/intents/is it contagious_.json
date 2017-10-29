@@ -1,0 +1,28 @@
+{
+  "id": "5875765b-6835-41ca-bfa6-c63cadfab1f2",
+  "name": "is it contagious?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "No, it\u0027s a misconception."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509235576,
+  "fallbackIntent": false,
+  "events": []
+}

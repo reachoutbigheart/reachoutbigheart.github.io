@@ -1,0 +1,28 @@
+{
+  "id": "0afa23e9-0418-4096-9554-63538503db53",
+  "name": "how epilepsy is diagnosed?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are many stages in the diagnostic process. It is extremely important to get a correct diagnosis and this may need lots of tests and may take considerable time. Seizures can be of all different forms. They may involve the involuntary movement or stiffening of a limb, \nfeelings of déjà vu, unpleasant smells or tastes, or sensations in the stomach such as butterflies or nausea. Other types of seizures may involve the whole body. Next time you suspect your relation to be experiencing a seizure, if possible, keep track of the length of the seizure. Tracking the frequency and lengths will help your GP to make a diagnosis."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509247805,
+  "fallbackIntent": false,
+  "events": []
+}

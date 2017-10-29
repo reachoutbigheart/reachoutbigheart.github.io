@@ -1,0 +1,28 @@
+{
+  "id": "c3a8fc4b-4f87-45d5-a946-1063024c458d",
+  "name": "how is epilepsy treated?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Once diagnosed, epilepsy is controlled by taking regular anti-epilepsy medications (AEDs). There are numerous different medications available. The choice of AEDs will depend on a number of factors, including the type of seizure or syndrome. If side effects or break through seizures do occur it is important to discuss these with your doctor, as it sometimes takes a while to get exactly the right medication/s and dosage level. Good seizure control can be achieved in about 75% people."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509235432153,
+  "fallbackIntent": false,
+  "events": []
+}

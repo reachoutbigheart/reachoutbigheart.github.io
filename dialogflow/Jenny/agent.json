@@ -1,0 +1,34 @@
+{
+  "description": "Jenny gives guidance to those who have or know someone with epilepsy.",
+  "language": "en",
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "reachout-89b1c",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "Australia/Sydney",
+  "webhook": {
+    "url": "https://us-central1-reachout-89b1c.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": []
+}

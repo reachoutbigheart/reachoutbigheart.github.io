@@ -1,0 +1,28 @@
+{
+  "id": "58c1575b-6e94-4a1a-908e-a870c473481b",
+  "name": "who gets epilepsy?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Anyone at any age, from any race, background or intelligence level can have epilepsy. About 2 in every 100 people will at some stage in their life acquire it, so there are approximately 90,000 people with epilepsy in Queensland. There are two peaks for epilepsy onset: childhood/ adolescence and in people over 60 years old. People with any form of structural brain abnormalities including cerebral palsy, brain injury, autism or intellectual disability have a much higher rate of epilepsy."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509235010791,
+  "fallbackIntent": false,
+  "events": []
+}

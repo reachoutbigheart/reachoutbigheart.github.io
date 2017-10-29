@@ -1,0 +1,39 @@
+{
+  "id": "f6b57c07-bfa3-44c4-a026-d7cad4f42d75",
+  "parentId": "34a0bdd2-f1d8-485e-889b-b1ef08699b5e",
+  "rootParentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "name": "Welcome Intent - yes - yes - custom",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntent-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntent.WelcomeIntent-yes.WelcomeIntent-yes-yes.WelcomeIntent-yes-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntent-yes-yes-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can send you more information about children with epilepsy in email as a pdf, or you can call one of our volunteers at Epilepsy Queensland. Which one would you prefer?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509236981,
+  "fallbackIntent": false,
+  "events": []
+}

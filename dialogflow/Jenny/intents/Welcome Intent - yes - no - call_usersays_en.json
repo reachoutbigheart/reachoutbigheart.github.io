@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0d85f8a4-b14d-4b05-bf00-4bf6bb7cb93a",
+    "data": [
+      {
+        "text": "call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509169339
+  },
+  {
+    "id": "218bdd4f-5655-4865-961a-5b33c3b04299",
+    "data": [
+      {
+        "text": "mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509169339
+  },
+  {
+    "id": "9651a0b6-1eed-4a86-b560-29ded267da40",
+    "data": [
+      {
+        "text": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509169339
+  }
+]

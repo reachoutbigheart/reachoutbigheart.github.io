@@ -1,0 +1,31 @@
+{
+  "id": "b10a3663-dc45-4401-9008-30a08e17cbcf",
+  "name": "what is epilepsy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Epilepsy is a tendency to have recurring seizures. There are many different types of seizures but they are always due to abnormal electrical activity somewhere in the brain.\nMany people will have one seizure at some stage in their lives, but this is not necessarily epilepsy because there is a low risk of recurrence. Many children with epilepsy will eventually ‘grow out of it’ by the time they reach adulthood. For some people, the tendency to recurrent seizures may be a lifelong predisposition.",
+            ""
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509234130,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cc394265-37e2-4918-a3e6-d3d27f866407",
+  "parentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "rootParentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "name": "Welcome Intent - yes",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntent.WelcomeIntent-yes",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntent-yes-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Making sure that seizures are correctly diagnosed, and that treatment plans are followed, minimises further risks. So, you are already on a path that will help you on your journey.\n\nAnd don\u0027t worry, I will be here to answer your questions and just a phone call away if you need the comfort of a human voice.\n\nSo that I can point you to the right direction, I\u0027d need a bit of information about your situation. Are you happy with that?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509243359,
+  "fallbackIntent": false,
+  "events": []
+}

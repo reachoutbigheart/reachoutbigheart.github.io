@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d0756509-a745-42ec-b49d-befce541d7c0",
+    "data": [
+      {
+        "text": "call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "7b73c982-8e49-4696-a20d-128e0363d3f3",
+    "data": [
+      {
+        "text": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "4a7d8297-1b2f-4e05-86b0-9c16eb14ecf2",
+    "data": [
+      {
+        "text": "phone call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "7183157b-8e6d-4cd9-bacf-8c632608e324",
+    "data": [
+      {
+        "text": "please call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "4a99ac57-5242-4c2c-a4d6-6f716b7e4746",
+    "data": [
+      {
+        "text": "call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "04b3e801-0b32-4d9d-bc99-869a1c257e57",
+    "data": [
+      {
+        "text": "call me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "68c968b0-8a65-4d55-a947-85da0e4d0670",
+    "data": [
+      {
+        "text": "phone please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "5e2810fa-1801-4fc6-bb2a-adc9c6eee8ca",
+    "data": [
+      {
+        "text": "mobile please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "56c8d89a-20ec-443e-87b5-65d8e0629481",
+    "data": [
+      {
+        "text": "call please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  },
+  {
+    "id": "10b62c60-3f7a-4d02-b11f-70641b626bc0",
+    "data": [
+      {
+        "text": "mobile phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238182
+  }
+]

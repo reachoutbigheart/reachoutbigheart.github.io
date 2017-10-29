@@ -1,0 +1,39 @@
+{
+  "id": "34a0bdd2-f1d8-485e-889b-b1ef08699b5e",
+  "parentId": "cc394265-37e2-4918-a3e6-d3d27f866407",
+  "rootParentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "name": "Welcome Intent - yes - yes",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntent-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntent.WelcomeIntent-yes.WelcomeIntent-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntent-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Can you tell me a bit more about the person with the diagnosis?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509177487,
+  "fallbackIntent": false,
+  "events": []
+}

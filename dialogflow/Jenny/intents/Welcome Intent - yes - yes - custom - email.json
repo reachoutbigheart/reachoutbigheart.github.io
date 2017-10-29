@@ -1,0 +1,39 @@
+{
+  "id": "a49b7bf1-77b3-4472-b68a-0f0ad86e0121",
+  "parentId": "f6b57c07-bfa3-44c4-a026-d7cad4f42d75",
+  "rootParentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "name": "Welcome Intent - yes - yes - custom - email",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntent-yes-yes-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntent.WelcomeIntent-yes.WelcomeIntent-yes-yes.WelcomeIntent-yes-yes-custom.WelcomeIntent-yes-yes-custom-custom",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntent-yes-yes-custom-email-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure, I can do that. Can I grab your email address?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509179275,
+  "fallbackIntent": false,
+  "events": []
+}

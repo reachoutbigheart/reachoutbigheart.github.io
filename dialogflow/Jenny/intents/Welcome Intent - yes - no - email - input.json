@@ -1,0 +1,48 @@
+{
+  "id": "7af33262-269b-4890-85e2-64852f9e75ee",
+  "parentId": "96ce9bba-6dce-42f7-961d-dc7ae52d0d73",
+  "rootParentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "name": "Welcome Intent - yes - no - email - input",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntent-yes-no-email-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "WelcomeIntent.WelcomeIntent-yes.WelcomeIntent-yes-no.WelcomeIntent-yes-no-custom.WelcomeIntent-yes-no-email-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ce88e1a1-44cc-492f-97e6-b8f94c760260",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your email address?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027ve sent you some general information about the diagnosis of epilepsy. If you need further assistance, please call Epilepsy Queensland at 0412 323 455."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509171586,
+  "fallbackIntent": false,
+  "events": []
+}

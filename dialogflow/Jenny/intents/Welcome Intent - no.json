@@ -1,0 +1,39 @@
+{
+  "id": "be23adfa-3404-46ae-b664-9bc3ec5984bb",
+  "parentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "rootParentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "name": "Welcome Intent - no",
+  "auto": true,
+  "contexts": [
+    "WelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WelcomeIntent.WelcomeIntent-no",
+      "affectedContexts": [
+        {
+          "name": "WelcomeIntent-no-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you suspect someone you know has had a seizure, it\u0027s important that you see your GP. Seizures can be of all different forms. They may involve the involuntary movement or stiffening of a limb, \nfeelings of déjà vu, unpleasant smells or tastes, or sensations in the stomach such as butterflies or nausea. Other types of seizures may involve the whole body. Next time you suspect your relation to be experiencing a seizure, if possible, keep track of the length of the seizure. Tracking the frequency and lengths will help your GP to make a diagnosis.\n\n I can send you some general information in email, or you can call one of our volunteers at Epilepsy Queensland. Which one would you prefer?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509239434,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "da595062-6e4f-468d-9981-e848f519ef3c",
+  "name": " I\u0027m wondering if he can do sports now? ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509237972,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "0537d98b-7ac2-4268-a51a-7ce8d9396c2b",
+  "name": "who is josh wulf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "He is The Legendary Josh Wulf™ - As Seen on the Internet®"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509234925,
+  "fallbackIntent": false,
+  "events": []
+}

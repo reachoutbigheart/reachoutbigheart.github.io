@@ -1,0 +1,158 @@
+[
+  {
+    "id": "352904b5-1bbb-415f-a20c-6c667269a401",
+    "data": [
+      {
+        "text": "Yes, my kid just had a seizure.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509240697
+  },
+  {
+    "id": "8e8cee4d-a94a-4c5d-9243-579ae7c4ebe5",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86aeb460-24e5-47ee-ae96-43d5277799c2",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fab8ab32-8ff9-4679-bcd6-15c74bed4908",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dca5281-24b7-4cb7-b732-4bab9f56f29a",
+    "data": [
+      {
+        "text": "do it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b6af56f4-2bbc-4da9-858c-962c068ca3ed",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "2618bcd6-5f86-41c9-ad60-ec1ffc47920f",
+    "data": [
+      {
+        "text": "exactly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "198ebd81-1a38-4a77-b4ab-4e9178cd958a",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "60aa9b15-6ddf-4d66-a680-b90542b6ef3f",
+    "data": [
+      {
+        "text": "of course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ba6d7fb-3b41-4004-8971-152a60b71358",
+    "data": [
+      {
+        "text": "sounds good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7eff5d29-acd4-4f9e-b8e0-e90b42f82d06",
+    "data": [
+      {
+        "text": "that\u0027s correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7a65067-a541-48cd-ac15-8c3e0f1402d8",
+    "data": [
+      {
+        "text": "I don\u0027t mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f189ffc-1c77-411a-aba0-f41c703cbd39",
+    "data": [
+      {
+        "text": "I agree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

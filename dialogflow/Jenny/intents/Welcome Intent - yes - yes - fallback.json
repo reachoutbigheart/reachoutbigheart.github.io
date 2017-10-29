@@ -1,0 +1,33 @@
+{
+  "id": "9861856a-1259-45af-8f3c-f03784bc3d24",
+  "parentId": "34a0bdd2-f1d8-485e-889b-b1ef08699b5e",
+  "rootParentId": "2d6db633-66dd-436e-9e48-f00f775f8021",
+  "name": "Welcome Intent - yes - yes - fallback",
+  "auto": false,
+  "contexts": [
+    "WelcomeIntent-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "WelcomeIntent.WelcomeIntent-yes.WelcomeIntent-yes-yes.WelcomeIntent-yes-yes-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you need further assistance, please call Epilepsy Queensland at 0412 323 455."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509238584,
+  "fallbackIntent": true,
+  "events": []
+}

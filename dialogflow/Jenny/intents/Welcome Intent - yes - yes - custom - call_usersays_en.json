@@ -1,0 +1,134 @@
+[
+  {
+    "id": "3648d62e-3e06-4fc5-a0f4-2d8f8b779c45",
+    "data": [
+      {
+        "text": "mobile phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509180566
+  },
+  {
+    "id": "84bce8a8-a273-4fe9-a121-f7ff94b574f8",
+    "data": [
+      {
+        "text": "call please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509180566
+  },
+  {
+    "id": "d7dab82f-0273-49e3-9eac-7f2aa9877938",
+    "data": [
+      {
+        "text": "mobile please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509180566
+  },
+  {
+    "id": "7708bf83-110b-4287-ac9b-83976e675709",
+    "data": [
+      {
+        "text": "phone please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509180566
+  },
+  {
+    "id": "15bc42ff-d66b-4ca9-8723-b427389c8e39",
+    "data": [
+      {
+        "text": "call me please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509180566
+  },
+  {
+    "id": "840323b3-98f0-4778-97a8-7328ab7b6d00",
+    "data": [
+      {
+        "text": "call me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509180566
+  },
+  {
+    "id": "d3eded66-097d-4aeb-8930-c8f979fffaba",
+    "data": [
+      {
+        "text": "please call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509180566
+  },
+  {
+    "id": "899068cb-87c9-47f6-a496-8db75d40a8cc",
+    "data": [
+      {
+        "text": "phone call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509180566
+  },
+  {
+    "id": "6cf8dcef-ac00-4c7b-a0e5-b7833e1b9ed7",
+    "data": [
+      {
+        "text": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509179081
+  },
+  {
+    "id": "dd7e89f9-30fe-419e-bb27-a5d5ac213ee3",
+    "data": [
+      {
+        "text": "call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509179081
+  },
+  {
+    "id": "ec7b0800-b0a3-4cd0-9fa6-959e7f70745c",
+    "data": [
+      {
+        "text": "mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509179081
+  }
+]

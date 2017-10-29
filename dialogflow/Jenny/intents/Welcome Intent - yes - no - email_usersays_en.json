@@ -1,0 +1,26 @@
+[
+  {
+    "id": "07fc8811-5138-4547-a12f-ae48aedaceb7",
+    "data": [
+      {
+        "text": "mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509169253
+  },
+  {
+    "id": "031878bc-9bce-4b72-be2e-3179a788d3cb",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509169253
+  }
+]

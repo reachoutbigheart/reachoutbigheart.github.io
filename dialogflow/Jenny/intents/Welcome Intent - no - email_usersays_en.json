@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6df99681-6f91-43f9-9e54-5545c166056d",
+    "data": [
+      {
+        "text": "send me an email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509239049
+  },
+  {
+    "id": "310f7968-e8b1-41a9-92a2-e6410411c461",
+    "data": [
+      {
+        "text": "mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509239049
+  },
+  {
+    "id": "04a449df-af9c-4f02-85b8-e55cd52bf67c",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509239049
+  }
+]

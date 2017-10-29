@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4a876c51-4f7c-4694-aa71-3161fb93f63e",
+    "data": [
+      {
+        "text": "email",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509238373
+  }
+]

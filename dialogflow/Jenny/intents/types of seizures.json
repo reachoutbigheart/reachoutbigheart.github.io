@@ -1,0 +1,31 @@
+{
+  "id": "d1ba8029-9017-43e8-98a2-19b76e51c564",
+  "name": "types of seizures",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The most common seizure type seen in older people is a dyscognitive focal seizure. These arise in one area of the brain, often the temporal lobe, and appear to the observer as a blank stare, often accompanied by automatisms. Automatisms are repetitive pointless movements, such as hand wringing, picking at clothes, fiddling with buttons, pens or other objects, repeating a phrase or words over and over again which makes no sense and smacking the lips or making chewing movements with the mouth. The person will have no memory of the event, and will often appear confused and tired when the seizure is over.",
+            "Sometimes at the onset of focal seizures when the person is awake, they may be aware of something happening, such as pins and needles or tingling down one side of the bod, an odd feeling in the stomach or chest, sensory hallucinations such as a strange taste in the mouth, an odd smell, or sound. It may also begin with an aura characterized by a strange emotional feeling like fear, apprehension, déjà vu, or problems with speech, such as not being able to get the right words out during the seizure."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509233858073,
+  "fallbackIntent": false,
+  "events": []
+}
