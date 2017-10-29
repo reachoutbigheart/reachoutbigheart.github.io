@@ -6,25 +6,25 @@ background:#e06d5e;
 }
 
 .navbar .brand a:hover {
-	color:#1BAC91;
+    color: #FE341B;
 }
 
 
 
 ul#menu-main > li > a:hover {
-	color: #1BAC91;
+    color: #FE341B;
 }
 
 
-ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.selected, ul#menu-main li a.selected:active    {
-	color: #1BAC91;
+ul#menu-main > li > a:focus, ul#menu-main > li > a:active, ul#menu-main > li > a.selected, ul#menu-main li a.selected:active {
+    color: #FE341B;
 }
 #header-wrapper h1 span {
-	color:#1BAC91;
+    color: #FE341B;
 }
 
 #header-wrapper input[type=submit] {
-	background: #1BAC91 !important;
+    background: #FE341B !important;
 }
 
 #theme-form input[type=submit] {
@@ -55,17 +55,17 @@ ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.
 
 /* works */
 #filters ul li a:hover h5, #filters ul li a.active h5 {
-	background: #1BAC91;
-	border-color: #1BAC91;
+    background: #FE341B;
+    border-color: #1BAC91;
 }
 
 .portfolio .portfolio-overlay {
-	background: #1BAC91;
+    background: #FE341B;
 }
 
 /* icon */
 i.icon-bgdark:hover {
-	background: #26c8aa;
+    background: #FE341B;
 }
 
 i.icon-bgdark.active {
