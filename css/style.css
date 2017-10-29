@@ -1652,7 +1652,8 @@ i.icon-white {
 	}
 
 }
-    
+
+
     /* Smartphones (portrait and landscape) ----------- */
 @media only screen  and (min-device-width : 320px)  and (max-device-width : 480px) {
 
@@ -1690,7 +1691,7 @@ i.icon-white {
  display: block;
  text-align:center
 }
- .job-position: {
+ .job-position {
  margin-bottom: 1.5em;
 }
  .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
